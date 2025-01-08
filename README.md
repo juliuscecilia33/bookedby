@@ -14,6 +14,7 @@
 `pip install scikit-learn`
 `pip install matplotlib`
 `pip install scipy`
+`pip install reportlab`
 
 ## Run the script
 
