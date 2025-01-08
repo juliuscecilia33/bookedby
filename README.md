@@ -13,8 +13,15 @@
 `pip install pandas`
 `pip install scikit-learn`
 `pip install matplotlib`
-`pip install matplotlib`
+`pip install scipy`
 
 ## Run the script
 
-`python main.py`
+`python main.py` or `python [enter name of file here].py`
+
+### Files you can run
+
+- data_analysis.py
+- product_recommendation.py
+- customer_classification.py
+- integration_with_ai.py
